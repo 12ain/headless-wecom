@@ -49,3 +49,6 @@ data
 
 # env
 .env
+
+# output
+output*.xlsx
